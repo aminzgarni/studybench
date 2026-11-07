@@ -1,0 +1,11 @@
+flask>=3.0
+requests
+python-pptx
+python-docx
+pypdf
+cryptography
+faster-whisper
+pytesseract
+pillow
+pypdfium2
+av

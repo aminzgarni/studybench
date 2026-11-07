@@ -1,0 +1,10 @@
+# Your own data: course files, summaries, settings and API keys. Never upload these.
+data/
+*.db
+settings.json
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.github
+.github
